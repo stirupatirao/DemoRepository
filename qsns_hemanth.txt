@@ -1,0 +1,30 @@
+number of ways to reach the end of the matrix from top left to bottom right where 0 means that elements are not accesible.
+number of ways 3 elements can be selected from an array such that a+b+c = 0;
+number of ways two elements can be selected from the array such that a+b = target;
+reverese a linked list
+number of nodes in a tree;
+given an array of 0 and 1's , arrage all the 0's at one end of the array
+find the kth min/max element in an array of n elements
+given a number of stairs n where user can jump 1/2 stairs at once, caluculate the number of ways he can reach the top.
+given an array of numbers from 1 to n where one element is repeated and one is missing, find both numbers
+given an array of positive numbers from 1 to n where one  number is repeated then find it .
+flipkart search functionality
+implement your own connection pooling
+internal working on hashmap
+collection framework , rumtime and compile time polymorphism.
+abstract class vs inheritance
+given an array of numbers ,
+preorder inorder postorder and level order traversals of tree
+letfsided and rightsided view of a tree
+java streams
+lambda expressions --> predicate, function, bifunction .
+dafault and static methods in java 8
+microservies various annotations and uses .
+hour glass
+merge 2 sorted liked list
+union and intersection of 2 arrys
+Find the first non-repeating element in a given array of integers
+sum of 2 strings where both are integers witrhout using parseint
+queue using 2 stacks
+
+ 
